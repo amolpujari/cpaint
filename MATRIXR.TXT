@@ -1,0 +1,3 @@
+cl               clear screen
+/filename        Print file
+x                Exit
